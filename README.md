@@ -1,4 +1,4 @@
-# Conv-Structure
+# Traffic sign recognition using GTSRB dataset
 This is a traffic-sign recognition on the public data set GTSRB using Convolutional Neural Network (CNN).
 
 The code is still written in the old version Tensorflow: Tensorflow 1.9. So the static map is still used with api like tf.Session() or tf.placeholder(), so it may not be suitable for new tensorflow version like Tensorflow2.1
