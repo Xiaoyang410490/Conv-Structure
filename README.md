@@ -8,7 +8,8 @@ LiuNet Test1 implements the most basic LeNet/AlexNet architecture. Here the Leak
 
 LiuNet Test2 tries the smaller convolutional kern 3*3 instead of 5*5. And this is a VGG like network.
 
-LiuNet Test2 real adds some tricks like Batch Normalization and Dropout. 
+LiuNet Test2 corss adds some tricks like Batch Normalization and Dropout. 
 
-LiuNet Test3.2 and LiuNet Test3 real utilizes deep neural network replacing the FC-layer with Conv layer
-LiuNet Test4 real is the model with best performance implementing Multi-scale feature fusion.
+LiuNet Test6 is the network trained and tested on an expanded dataset. 
+
+RWTHNet1 is the model with the best performance implementing Multi-scale feature fusion and 1×1 convolutional kernel reduing the channel. 
